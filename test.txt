@@ -1,2 +1,4 @@
-Hello World!
-Goodbye!
+Hello world
+Goodbye
+See you later!
+Welcome back.
